@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-
     <title>Top Gun Universe News</title>
     <link>https://github.com</link>
     <description>Noticias sobre Top Gun y aviación.</description>
@@ -12,6 +11,7 @@
       <description>La película continúa siendo una de las más populares.</description>
       <link>https://www.paramount.com/movies/top-gun-maverick</link>
       <pubDate>Mon, 11 May 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://m.media-amazon.com/images/I/7189p9E9DdL._AC_SL1500_.jpg" length="0" type="image/jpeg" />
     </item>
 
     <item>
@@ -19,6 +19,7 @@
       <description>El actor quiere seguir realizando escenas reales.</description>
       <link>https://www.imdb.com/name/nm0000129/</link>
       <pubDate>Sun, 10 May 2026 15:00:00 GMT</pubDate>
+      <enclosure url="https://m.media-amazon.com/images/M/MV5BMTYwNjAyNTE5NV5BMl5BanBnXkFtZTcwOTMzMzUzMw@@._V1_.jpg" length="0" type="image/jpeg" />
     </item>
 
     <item>
@@ -26,6 +27,7 @@
       <description>Top Gun aumenta el interés por la aviación.</description>
       <link>https://www.navy.mil</link>
       <pubDate>Sat, 09 May 2026 18:00:00 GMT</pubDate>
+      <enclosure url="https://upload.wikimedia.org/wikipedia/commons/2/27/F-18_Super_Hornet_top_view.jpg" length="0" type="image/jpeg" />
     </item>
 
     <item>
@@ -33,6 +35,7 @@
       <description>Los productores estudian continuar la saga.</description>
       <link>https://www.paramount.com</link>
       <pubDate>Fri, 08 May 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg" length="0" type="image/jpeg" />
     </item>
 
     <item>
@@ -40,6 +43,7 @@
       <description>Las canciones clásicas vuelven a escucharse.</description>
       <link>https://open.spotify.com</link>
       <pubDate>Thu, 07 May 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://m.media-amazon.com/images/I/7100X66-TjL._SL1425_.jpg" length="0" type="image/jpeg" />
     </item>
 
   </channel>
