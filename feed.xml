@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+
+    <title>Top Gun Universe News</title>
+    <link>https://github.com</link>
+    <description>Noticias sobre Top Gun y aviación.</description>
+    <language>es-es</language>
+
+    <item>
+      <title>Top Gun Maverick sigue siendo un éxito</title>
+      <description>La película continúa siendo una de las más populares.</description>
+      <link>https://www.paramount.com/movies/top-gun-maverick</link>
+      <pubDate>Mon, 11 May 2026 10:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Tom Cruise prepara nuevas escenas aéreas</title>
+      <description>El actor quiere seguir realizando escenas reales.</description>
+      <link>https://www.imdb.com/name/nm0000129/</link>
+      <pubDate>Sun, 10 May 2026 15:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Los cazas F18 vuelven a ponerse de moda</title>
+      <description>Top Gun aumenta el interés por la aviación.</description>
+      <link>https://www.navy.mil</link>
+      <pubDate>Sat, 09 May 2026 18:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Posible nueva película de Top Gun</title>
+      <description>Los productores estudian continuar la saga.</description>
+      <link>https://www.paramount.com</link>
+      <pubDate>Fri, 08 May 2026 12:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>La música de Top Gun vuelve a ser tendencia</title>
+      <description>Las canciones clásicas vuelven a escucharse.</description>
+      <link>https://open.spotify.com</link>
+      <pubDate>Thu, 07 May 2026 09:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
